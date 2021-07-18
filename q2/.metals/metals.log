@@ -1,0 +1,14 @@
+[0m2021.07.18 22:14:32 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\User\Desktop\New folder (3)\q2' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.18 22:14:32 INFO  time: initialize in 0.43s[0m
+[0m2021.07.18 22:14:32 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.18 22:14:32 WARN  no build target for: C:\Users\User\Desktop\New folder (3)\q2\src\main\scala\Main.scala[0m
+[0m2021.07.18 22:14:36 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.18 22:14:38 INFO  time: code lens generation in 4.77s[0m
+[0m2021.07.18 22:15:02 WARN  no build target for: C:\Users\User\Desktop\New folder (3)\q2\src\main\scala\Main.scala[0m
+[0m2021.07.18 22:15:20 WARN  no build target for: C:\Users\User\Desktop\New folder (3)\q2\src\main\scala\Main.scala[0m
+[0m2021.07.18 22:16:20 WARN  no build target for: C:\Users\User\Desktop\New folder (3)\q2\src\main\scala\Main.scala[0m
+[0m2021.07.18 22:17:57 INFO  [0m
+[0m2021.07.18 22:17:57 INFO  Template applied in C:\Users\User\Desktop\New folder (3)\.\q3[0m
+[0m2021.07.18 22:17:57 INFO  [0m
+[0m2021.07.18 22:17:57 INFO  giter8.Giter8 exit: 0[0m
+[0m2021.07.18 22:17:57 INFO  time: ran 'giter8.Giter8' in 9.3s[0m
